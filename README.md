@@ -2,5 +2,5 @@
 
 This is my OOP1 university coursework for the fourth semester:
 - A greenhouse class using a vector of a flower class;
-- A Main class with different methods relating to the former classesl;
+- A Main class with different methods relating to the former classes;
 - A main function testing the program's funtionality.
